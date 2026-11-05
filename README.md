@@ -44,7 +44,7 @@ pip install numpy pandas matplotlib scikit-learn jupyter
 
 ## Run the notebook
 
-1. Open `CART_Supermarket_Promo_Assignment.ipynb` in Jupyter Notebook or VS Code.
+1. Open `CART_PlayTennis_Assignment.ipynb` in Jupyter Notebook or VS Code.
 2. Run the cells from top to bottom.
 3. Review the tree diagrams, metrics, and predictions.
 
